@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">openairchina</string>
+    <string name="click_auto">辅助点击</string>
 </resources>
