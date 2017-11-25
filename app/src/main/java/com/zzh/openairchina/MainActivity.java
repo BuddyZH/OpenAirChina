@@ -26,7 +26,7 @@ public class MainActivity extends Activity {
     private final static int MSG_SECOND = 2;
     private final static int MSG_THIRD = 3;
 
-    private static long DELAY_TIME_FIRST = 5000L;
+    private static long DELAY_TIME_FIRST = 9000L;
     private static long DELAY_TIME_SECOND = 2000L;
     private static long DELAY_TIME_THIRD = 5000L;
 
